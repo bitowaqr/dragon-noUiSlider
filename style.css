@@ -1,0 +1,24 @@
+.drag-handle {
+
+    padding: 5px 10px;
+    white-space: nowrap;
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.handle-outside {
+    border: solid 2px black; 
+        padding: 10px; 
+        padding-right: 20px; 
+        padding-bottom: 15px; 
+        display: inline-block;
+        margin-top: -5px;
+        margin-left: 5px;
+}
+
+.noUi-connects {
+    pointer-events: none;
+}
+.noUi-connect {
+    background-color: lightgray;
+}
