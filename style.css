@@ -22,3 +22,7 @@
 .noUi-connect {
     background-color: lightgray;
 }
+
+.connect-active {
+    background-color: cyan;
+}
